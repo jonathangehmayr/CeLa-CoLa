@@ -3,12 +3,12 @@ CeLa and CoLa are used for predicting labels for columns of semi structured data
 
 The datasets used in this project were extracted using the dataset_creation.py file. Among the querried databases are:
 
--Wikidata
--DBpedia
--Uniprot
--LinkedLifeData
--OpenLifeData
--NBDC
+*Wikidata
+*DBpedia
+*Uniprot
+*LinkedLifeData
+*OpenLifeData
+*NBDC
 
 The datasets are available in this repository in /data as .xlsx files.
 
